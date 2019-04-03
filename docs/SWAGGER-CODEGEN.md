@@ -46,4 +46,4 @@ This will let you explore your API and test your endpoints  ... note they will a
 
  Checkout the [loopback documentation about lb4 OpenAPI code generation](https://loopback.io/doc/en/lb4/OpenAPI-generator.html)
 
-[back to Loopback notes](.//)
+[back to Loopback notes](https://github.com/Grant-Steinfeld/migrate-hyperledger-composer-loopback/blob/master/README.md)

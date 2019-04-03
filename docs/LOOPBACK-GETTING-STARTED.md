@@ -48,4 +48,4 @@ your web browser.
 
 For detailed information checkout the [loopback lb4 tutorial](https://loopback.io/doc/en/lb4/todo-tutorial.html)
 
-[back to Loopback notes](./../)
+[back to README](https://github.com/Grant-Steinfeld/migrate-hyperledger-composer-loopback/blob/master/README.md)
