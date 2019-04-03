@@ -5,7 +5,7 @@ Migrate existing Hyperledger Composer blockchain applications to v1.4 or later b
 [create](./docs/LOOPBACK-GETTING-STARTED.md) an empty Loopback v4 nodeJS application
 
 ## Step II
-[generate](./SWAGGER-CODEGEN.md) Loopback v4 API rest endpoints from your swagger.json
+[generate](./docs/SWAGGER-CODEGEN.md) Loopback v4 API rest endpoints from your swagger.json
 
 ## Step III
 [wire up](https://github.com/IBM/blockchainbean2) Loopback v4 controllers to a Hyperledger Fabric v1.4 blockchain network, by following along the popular IBM code-pattern [Create a fair trade supply chain network
